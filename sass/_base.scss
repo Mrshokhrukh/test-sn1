@@ -1,14 +1,13 @@
 .container {
-    @include card(500px, 300px, 20px, dodgerblue, 50px, white);
-  }
-  .bar {
-    @include card(300px, 300px, 8px, black, 18px, dodgerblue);
-  }
-  .category {
-    @include card(800px, 300px, 12px, lightgreen, 34px, green);
-  }
-  
-  .small {
-    @include card(100px, 100px, 15px, orange, 12px, black);
-  }
-  
+  @include card(500px, 300px, 20px, red, 50px, white);
+}
+.bar {
+  @include card(300px, 300px, 8px, blue, 18px, dodgerblue);
+}
+.category {
+  @include card(800px, 300px, 12px, orange, 34px, green);
+}
+
+.small {
+  @include card(100px, 100px, 15px, green, 12px, black);
+}

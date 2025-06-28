@@ -2,7 +2,7 @@
   width: 500px;
   height: 300px;
   border-radius: 20px;
-  background: dodgerblue;
+  background: red;
   font-size: 50px;
   color: white;
   text-align: center;
@@ -13,7 +13,7 @@
   width: 300px;
   height: 300px;
   border-radius: 8px;
-  background: black;
+  background: blue;
   font-size: 18px;
   color: dodgerblue;
   text-align: center;
@@ -24,7 +24,7 @@
   width: 800px;
   height: 300px;
   border-radius: 12px;
-  background: lightgreen;
+  background: orange;
   font-size: 34px;
   color: green;
   text-align: center;
@@ -35,7 +35,7 @@
   width: 100px;
   height: 100px;
   border-radius: 15px;
-  background: orange;
+  background: green;
   font-size: 12px;
   color: black;
   text-align: center;
