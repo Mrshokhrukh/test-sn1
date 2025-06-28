@@ -1,0 +1,10 @@
+@mixin card($width, $height, $radius, $bgColor, $fontSize, $color) {
+  width: $width;
+  height: $height;
+  border-radius: $radius;
+  background: $bgColor;
+  font-size: $fontSize;
+  color: $color;
+  text-align: center;
+  font-family: cursive;
+}
